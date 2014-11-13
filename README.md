@@ -5,10 +5,10 @@ This is more of an exersize in understanding the plugin structure without accide
 mangling upstream code :)
 
 ## Install
-```cd /path/to/datawrapper
-
+```
+cd /path/to/datawrapper
 git clone <this_repo> plugins/visualization-custom-line-chart
-
-php scripts/plugin.php install visualization-custom-line-chart```
+php scripts/plugin.php install visualization-custom-line-chart
+```
 
 
