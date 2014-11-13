@@ -6,7 +6,9 @@ mangling upstream code :)
 
 ## Install
 ```cd /path/to/datawrapper
+
 git clone <this_repo> plugins/visualization-custom-line-chart
+
 php scripts/plugin.php install visualization-custom-line-chart```
 
 
