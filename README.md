@@ -5,6 +5,9 @@ This is more of an exersize in understanding the plugin structure without accide
 mangling upstream code :)
 
 ## Install
+
+**CAVEAT**: you can only have one line chart installed at a time. 
+
 ```
 cd /path/to/datawrapper
 git clone <this_repo> plugins/visualization-custom-line-chart
