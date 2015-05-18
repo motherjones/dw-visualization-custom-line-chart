@@ -5,7 +5,7 @@ class DatawrapperPlugin_VisualizationCustomLineChart extends DatawrapperPlugin_V
     public function getMeta(){
         $meta = array(
             "title" => __("MJ Line Chart", $this->getName()),
-            "id" => "custom-line-chart",
+            "id" => "line-chart",
             "extends" => "raphael-chart",
             "dimensions" => 2,
             "order" => 40,
